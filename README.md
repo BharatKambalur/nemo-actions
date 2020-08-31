@@ -9,7 +9,6 @@ Nemo is default file manager in Linux Mint Cinnamon (as of 09/2020). Switching f
 
 <br />
 <br />
-<br />
 
 
 Copy the desired `.nemo_action` file to `~/.local/share/nemo/actions`

@@ -10,7 +10,7 @@ Nemo is default file manager in Linux Mint Cinnamon (as of 09/2020). Switching f
 
 #### Installation command:
 <br />
-`wget -P ~/.local/share/nemo/actions https://github.com/BharatKambalur/nemo-actions/blob/master/open-folder-in-vscode.nemo_action`
+ `wget -P ~/.local/share/nemo/actions https://github.com/BharatKambalur/nemo-actions/blob/master/open-folder-in-vscode.nemo_action`
 
 <br />
 

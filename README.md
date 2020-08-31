@@ -14,6 +14,4 @@ The action should be enabled by default. If it's not, you can enable it manually
 
 If you have issues, please report it or open a pull request.
 
-Author
--
-Bharat Kambalur
+Author: Bharat Kambalur

@@ -8,17 +8,13 @@ Adds an option in the context menu in he Nemo File browser to open the current f
 Nemo is default file manager in Linux Mint Cinnamon (as of 09/2020). Switching from Windows 10 to Linux Mint, I missed this feature for development and wrote the necessary action.
 
 <br />
-<br />
-
 
 Copy the desired `.nemo_action` file to `~/.local/share/nemo/actions`
 
 The action should be enabled by default. If it's not, you can enable it manually in the Plugins Dialog (Alt + P)
 
-
-
-
-
+<br />
+<br />
 
 If you have issues, please report it or open a pull request.
 

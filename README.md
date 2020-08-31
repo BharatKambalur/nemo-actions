@@ -4,11 +4,11 @@ Collection of Nemo (file brower) Action
 
 ### 1. Add 'Open Folder in VSCode' to Right Click context menu in Nemo File Browser
 
-#### `open-folder-in-vscode.nemo_action`
+`open-folder-in-vscode.nemo_action`
 Adds an option in the context menu in he Nemo File browser to open the current folder in Visual Studio Code (as VSCode's root folder).
 Nemo is default file manager in Linux Mint Cinnamon (as of 09/2020). Switching from Windows 10 to Linux Mint, I missed this feature for development and wrote the necessary action.
 
-Installation command:
+####Installation command:
 <br />
 `wget -P ~/.local/share/nemo/actions https://github.com/BharatKambalur/nemo-actions/blob/master/open-folder-in-vscode.nemo_action`
 

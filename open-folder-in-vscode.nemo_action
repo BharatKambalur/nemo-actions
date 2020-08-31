@@ -1,0 +1,9 @@
+[Nemo Action]
+# Author : Bharat Kambalur
+# Last Edit 20200831
+Active=true
+Name=Open Folder in VSCode
+Comment=Opens this folder in Visual Studio Code
+Exec=code %P
+Selection=none
+Extensions=any;
